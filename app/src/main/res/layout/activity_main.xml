@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textStyle="bold"
-            android:text="Data Dari Static Array : "/>
+            android:text="ESTADO : "/>
 
         <AutoCompleteTextView
             android:id="@+id/actext_namaprov"
@@ -41,7 +41,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textStyle="bold"
-            android:text="Data Dari Database Prov Sqlite : "/>
+            android:text="Municipio : "/>
 
         <AutoCompleteTextView
             android:layout_marginTop="16dp"
