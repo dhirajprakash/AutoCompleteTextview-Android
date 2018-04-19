@@ -1,4 +1,4 @@
-package com.farizdotid.belajarautocomplete;
+package com.dpk.autocomplete;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package com.farizdotid.belajarautocomplete;
+package com.dpk.autocomplete;
 
 import org.junit.Test;
 
